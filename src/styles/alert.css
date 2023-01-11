@@ -1,0 +1,18 @@
+.alert-container {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+.alert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 3rem 2rem 3rem;
+  border-radius: 5px;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  background-color: #ff0032;
+}
